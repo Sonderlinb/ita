@@ -1,0 +1,25 @@
+<style>
+p {
+    color:darksalmon;
+}
+table,th,td {
+    border:1px solid black;
+}
+td {
+    color:rgb(254, 254, 254);
+    background-color: rgb(89, 92, 84);
+}
+h1 {
+    color:crimson;
+    background-color:black;
+}
+body {
+    background-color:rgb(112, 182, 124) 
+}
+.text {
+    color:rgb(37, 7, 170);
+}
+button {
+    color:blue; background-color: rgb(15, 13, 14);
+}
+</style>
